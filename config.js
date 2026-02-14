@@ -33,7 +33,7 @@ const CONFIG = {
             nextBtn: "goo❤️"                                         // Text for the next button
         },
         third: {
-            text: "Quieres ser mui san valentin hoy 14? 🌹", // The big question!
+            text: "Quieres ser mi san valentin hoy 14? 🌹", // The big question!
             yesBtn: "Sii!",                                             // Text for "Yes" button
             noBtn: "No"                                                 // Text for "No" button
         }
@@ -42,8 +42,8 @@ const CONFIG = {
     // Love meter messages
     // They show up depending on how far they slide the meter
     loveMessages: {
-        extreme: "JAJAJ wao enserio me adoras? 🥰🚀💝",  // Shows when they go past 5000%
-        high: "I love you Winniee JAJA! 🚀💝",              // Shows when they go past 1000%
+        extreme: "JAJAJ oe enserio me adoras? 🥰🚀💝",  // Shows when they go past 5000%
+        high: "Te adoro Winniee JAJA! 🚀💝",              // Shows when they go past 1000%
         normal: "Muchisimooooo! 🥰"                           // Shows when they go past 100%
     },
 
@@ -78,7 +78,7 @@ const CONFIG = {
     music: {
         enabled: true,                     // Music feature is enabled
         autoplay: true,                    // Try to autoplay (note: some browsers may block this)
-        musicUrl: "https://res.cloudinary.com/dncywqfpb/video/upload/v1738399057/music_qrhjvy.mp3", // Music streaming URL
+        musicUrl: "https://github.com/arandatayson/valentine-website-2025/raw/main/music/coqueta.mp3", // Music streaming URL
         startText: "🎵 Play Music",        // Button text to start music
         stopText: "🔇 Stop Music",         // Button text to stop music
         volume: 0.5                        // Volume level (0.0 to 1.0)
